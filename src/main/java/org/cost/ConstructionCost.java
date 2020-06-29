@@ -1,4 +1,4 @@
-package cost;
+package org.cost;
 
 public class ConstructionCost {
 
